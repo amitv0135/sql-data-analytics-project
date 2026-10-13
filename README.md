@@ -1,2 +1,3 @@
 SQL Data Preparation & Warehouse Staging: Extracted and ingested raw enterprise datasets into SSMS, writing structured SQL data cleaning scripts to eliminate duplicates, handle missing values, and standardize data types for analysis.
+
 ​Analytical Modeling & Business Insights: Engineered advanced SQL queries—utilizing CTEs, Joins, Window Functions, and Aggregations—to build business-ready staging views
